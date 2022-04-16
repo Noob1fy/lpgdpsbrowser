@@ -1,0 +1,13 @@
+[
+  {
+    "name": "LP-GDPS",
+    "link": "https://launchpadrbx.7m.pl",
+    "author": "Noobify",
+    "authorLink": "https://twitter.com/Noob1fyDev",
+    "id": "",
+    "endpoint": "http://launchpadps.7m.pl/database/",
+    "timestampSuffix": " ago",
+    "demonList": "https://pointercrate.com/",
+    "pinned": true
+  }
+]
